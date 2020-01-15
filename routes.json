@@ -1,0 +1,4 @@
+{
+    "tester": "https://financialprofessional.riversource.com/rvspnpservice/services/product/productslist?_type=json",
+    "data": "https://www.riversource.com/api/adobe-sp/search?sp_q=home&sp_t=cwpampf_json&sp_a=sp10050ded&site=Ameriprise1"
+}

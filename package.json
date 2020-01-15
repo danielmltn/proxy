@@ -1,0 +1,29 @@
+{
+  "name": "product-producer",
+  "version": "1.0.0",
+  "description": "will act as the black box for publishing product updates that we can consume elsewhere.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "start": "nodemon --exec babel-node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.7.7",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "kafka-node": "^5.0.0",
+    "request": "^2.88.0",
+    "ws": "^7.2.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-jest": "^24.9.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^6.7.2",
+    "jest": "^24.9.0",
+    "nodemon": "^2.0.1"
+  }
+}
