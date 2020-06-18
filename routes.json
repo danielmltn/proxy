@@ -1,4 +1,5 @@
 {
     "tester": "https://financialprofessional.riversource.com/rvspnpservice/services/product/productslist?_type=json",
-    "data": "https://www.riversource.com/api/adobe-sp/search?sp_q=home&sp_t=cwpampf_json&sp_a=sp10050ded&site=Ameriprise1"
+    "data": "https://www.qa.riversource.com/api/adobe-sp/search?sp_q=searchterm&sp_t=cwpampf_json&sp_a=sp10050dec&site=Ameriprise1",
+    "cti": "http://columbiathreadneedleus.com/api/public/v1/funds/productsummary/Retail?tag=PricesAndYields&status=1&sortField=fundName&classes="
 }
